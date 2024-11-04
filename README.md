@@ -47,4 +47,7 @@ The task is to build a classification model to predict the paper break events (r
 
 ## Conclusion
 
-This case study demonstrates how to handle rare event classification in industrial time-series data. The notebook outlines how to preprocess time-series data, balance classes, and train models that are tuned to handle imbalanced classification tasks effectively.
+This case study demonstrates how to handle rare event classification in industrial time-series data. The notebook outlines how to preprocess time-series data, balance classes, and train models that are tuned to handle imbalanced classification tasks effectively. The following images show the final output of the models.
+
+![Results](./Results.png)
+![Results Log](./ResultsLog.png)
